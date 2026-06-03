@@ -1,2 +1,3 @@
 const m = "payment method"
-console.log(m)
+const p = "second payment method"
+console.log(m, p)
