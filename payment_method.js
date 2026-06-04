@@ -1,3 +1,4 @@
 const m = "payment method"
 const d = "debtor"
-console.log(m)
+const p = "second payment method"
+console.log(m, p)
